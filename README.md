@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @anteneh83
-- 👀 I’m interested in front-end development
-- 💞️ I want to collaborate on a front-end developer team to share more experience.
+- 👀 I’m interested in front-end development in Reactjs and Back-end development in Nodejs with MongoDB /Mern-Stack Developer/.
+- 💞️ I want to collaborate on a front-end and Back-end developer team to share more experience.
 - 📫 you can contact me using telegram username as:-@Yours_2123 or email:- antenehgetnet83@gmail.com
