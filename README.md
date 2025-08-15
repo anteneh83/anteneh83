@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @anteneh83
-- 👀 I’m interested in front-end development in Reactjs and Back-end development in Nodejs with MongoDB /Mern-Stack Developer/.
-- 💞️ I want to collaborate on a front-end and Back-end developer team to share more experience.
-- 📫 you can contact me using telegram username as:-@Yours_2123 or email:- antenehgetnet83@gmail.com
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChijiokeOkorji&style=for-the-badge" alt="Profile Views Badge"/>
+</div>
+<br>
+
+<img src="https://github.com/ChijiokeOkorji/ChijiokeOkorji/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Anteneh+Getnet!;" />
+</h1>
