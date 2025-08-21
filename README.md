@@ -69,12 +69,11 @@ A web platform for managing vehicle records, inventory, and technician workflows
 **Tech:** JavaScript, Node.js, MongoDB, Bootstrap
 
 </td>
-
 <td width="300" valign="top">
 
-### 📌 [AASTU Finder App Backend](https://github.com/anteneh83/AASTU_Finder_App_Backend)  
-Backend API powering a campus navigation app for students.  
-**Tech:** Node.js, Express, MongoDB
+### 📌 [A2sv_Application_Tracker](https://github.com/anteneh83/A2sv_Application_Tracker)  
+An Application Tracker for A2SV communities.  
+**Tech:** NextJS, Tailwind, GoLang
 
 </td>
 
@@ -92,12 +91,11 @@ A job search platform with filtering and real-time listings.
 
 <td width="300" valign="top">
 
-### 📌 [AASTU Mart](https://github.com/anteneh83/A2sv_Application_Tracker)  
-E-commerce platform for university communities.  
-**Tech:** JavaScript, Node.js, MongoDB
+### 📌 [AASTU Finder App Backend](https://github.com/anteneh83/AASTU_Finder_App_Backend)  
+Backend API powering a campus navigation app for students.  
+**Tech:** Node.js, Express, MongoDB
 
 </td>
-
 </tr>
 </table>
 </div>
