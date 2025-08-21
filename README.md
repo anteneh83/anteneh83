@@ -1,5 +1,4 @@
 <div align="center"> 
-  <p>Visitor count</p>
   <img src="https://profile-counter.deno.dev/:anteneh83:/count.svg" alt="Visitor Count" />
 </div>
 
@@ -7,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=anteneh83&style=for-the-badge" alt="Profile Views Badge"/>
 </div>
 <br>
-
-<img width="1536" height="1024" alt="Developer Banner" src="https://github.com/user-attachments/assets/9972e9e3-8534-4ff8-811c-5e05da551ce7" />
-
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=850&height=70&color=4C9AFF&duration=4000&lines=Hello+World!+🌍;+I'm+Anteneh+Getnet!;Full+Stack+Developer+%7C+Software+Engineer;Clean+Code+Advocate+%7C+Tech+Explorer" />
