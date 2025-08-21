@@ -92,7 +92,7 @@ A job search platform with filtering and real-time listings.
 
 <td width="300" valign="top">
 
-### 📌 [AASTU Mart](https://github.com/anteneh83/AASTU_Mart)  
+### 📌 [AASTU Mart](https://github.com/anteneh83/A2sv_Application_Tracker)  
 E-commerce platform for university communities.  
 **Tech:** JavaScript, Node.js, MongoDB
 
