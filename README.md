@@ -1,11 +1,13 @@
 <div align="center"> 
+  <h3>Visitor Count </h3>
   <img src="https://profile-counter.deno.dev/:anteneh83:/count.svg" alt="Visitor Count" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=anteneh83&style=for-the-badge" alt="Profile Views Badge"/>
 </div>
 <br>
+-->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=850&height=70&color=4C9AFF&duration=4000&lines=Hello+World!+🌍;+I'm+Anteneh+Getnet!;Full+Stack+Developer+%7C+Software+Engineer;Clean+Code+Advocate+%7C+Tech+Explorer" />
