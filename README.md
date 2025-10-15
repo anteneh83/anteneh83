@@ -64,9 +64,9 @@ I’m a **Software Engineering student** and **Full-Stack Developer** passionate
 
 <td width="300" valign="top">
 
-### 📌 [Garage Management System](https://github.com/anteneh83/Garage_Managment_System)  
-A web platform for managing vehicle records, inventory, and technician workflows.  
-**Tech:** JavaScript, Node.js, MongoDB, Bootstrap
+### 📌 [Wekil AI Drafter](https://github.com/RealEskalate/G6-Wekil-AI)  
+A web platform for Drafting Agreemnt between freelancer and contractor using AI.  
+**Tech:** Nextjs,Typescript,Go(Golang), mongoDB, Bootstrap
 
 </td>
 <td width="300" valign="top">
